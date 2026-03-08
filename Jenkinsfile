@@ -8,7 +8,7 @@ pipeline {
                 git 'https://github.com/PearlDcosta/temp.git'
             }
         }
-        stage('build') {
+        stage('build') { 
             steps {
                 echo 'Building the program'
                 bat 'javac Hello.java'
