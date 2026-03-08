@@ -14,8 +14,10 @@ public class Hello
                 }
              System.out.println();
             }
+        System.out.println("for Q6");
     }//new changes
 }
+
 
 
 
