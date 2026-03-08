@@ -13,8 +13,10 @@ public class Hello
                 System.out.print("* ");
                 }
              System.out.println();
+            }
     }//new changes
 }
+
 
 
 
